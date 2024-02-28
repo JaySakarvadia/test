@@ -16,7 +16,7 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hello! I'm a third year student at the [University of North Carolina at Chapel Hill](https://www.unc.edu/) studying Computer Science and Economics with a minor in Statistics.
@@ -27,4 +27,4 @@ These experiences have led me to develop a deep interest in data science, with a
 
 Apart from academics, I love to listen to music, travel, and spend time in the gym.
 
-Feel free to reach out to me using any of the social links below!
+Feel free to reach out to me using any of the social links located at the top left of this page!
