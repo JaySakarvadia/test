@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Student. Researcher. Data Scientist.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Chapel Hill, Chicago, Charlotte, Apex (Home)</p>
+    <p></p>
+    <p></p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -23,7 +23,7 @@ Hello! I'm a third year student at the [University of North Carolina at Chapel H
 
 My academic journey has been deeply influenced by my participation in a variety of research projects. I've investigated hospital performance managment, lithium-ion battery health estimation for electric vehicles, and most recently data movement on supercomputers at [Argone National Laboratory](https://www.anl.gov/).
 
-These experiences have led me to develop a deep interest in data science, with a specific focus on how machine/deep learning can be applied in science and industry. I explore these passions through my personal projects, check out the projects tab!
+These experiences have led me to develop a deep interest in data science, with a specific focus on how machine/deep learning can be applied in science and industry. I explore these passions through personal projects that can be found on my [GitHub!](https://github.com/JaySakarvadia)
 
 Apart from academics, I love to listen to music, travel, and spend time in the gym.
 
