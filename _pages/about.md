@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 Hello! I'm a third year student at the [University of North Carolina at Chapel Hill](https://www.unc.edu/) studying Computer Science and Economics with a minor in Statistics.
 
-My academic journey has been deeply influenced by my participation in a variety of research projects. I've investigated hospital performance managment, lithium-ion battery health estimation for electric vehicles, and most recently data movement on supercomputers at [Argone National Laboratory](https://www.anl.gov/).
+My academic journey has been deeply influenced by my participation in a variety of research projects. I've investigated hospital performance management, lithium-ion battery health estimation for electric vehicles, and most recently data movement on supercomputers at [Argonne National Laboratory](https://www.anl.gov/).
 
 These experiences have led me to develop a deep interest in data science, with a specific focus on how machine/deep learning can be applied in science and industry. I explore these passions through personal projects that can be found on my [GitHub!](https://github.com/JaySakarvadia)
 
